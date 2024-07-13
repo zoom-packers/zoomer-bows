@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pandaismyname1.zoomer_bows.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "zoomer-bows.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

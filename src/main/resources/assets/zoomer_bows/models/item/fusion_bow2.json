@@ -1,0 +1,6 @@
+{
+    "parent": "zoomer_bows:item/fusion_bow",
+    "textures": {
+        "layer0": "zoomer_bows:item/fusion_bow2"
+    }
+}

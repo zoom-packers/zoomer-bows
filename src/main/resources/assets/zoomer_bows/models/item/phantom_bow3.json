@@ -1,0 +1,6 @@
+{
+    "parent": "zoomer_bows:item/phantom_bow",
+    "textures": {
+        "layer0": "zoomer_bows:item/phantom_bow3"
+    }
+}
