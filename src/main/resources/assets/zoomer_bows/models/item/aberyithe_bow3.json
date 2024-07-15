@@ -1,6 +1,0 @@
-{
-    "parent": "zoomer_bows:item/aberyithe_bow",
-    "textures": {
-        "layer0": "zoomer_bows:item/aberyithe_bow3"
-    }
-}

@@ -71,28 +71,28 @@
         }
     },
     "textures": {
-        "layer0": "zoomer_bows:item/aberyithe_bow"
+        "layer0": "zoomer_bows:item/aberythe_bow"
     },
     "overrides": [
         {
             "predicate": {
                 "minecraft:pulling": 1
             },
-            "model": "zoomer_bows:item/aberyithe_bow2"
+            "model": "zoomer_bows:item/aberythe_bow2"
         },
         {
             "predicate": {
                 "minecraft:pulling": 1,
                 "minecraft:pull": 0.65
             },
-            "model": "zoomer_bows:item/aberyithe_bow3"
+            "model": "zoomer_bows:item/aberythe_bow3"
         },
         {
             "predicate": {
                 "minecraft:pulling": 1,
                 "minecraft:pull": 0.9
             },
-            "model": "zoomer_bows:item/aberyithe_bow4"
+            "model": "zoomer_bows:item/aberythe_bow4"
         }
     ]
 }
