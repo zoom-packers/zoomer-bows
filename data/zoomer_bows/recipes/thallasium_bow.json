@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "betterend:thallasium_ingot"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:thallasium_bow",
+        "count": 1
+    }
+}

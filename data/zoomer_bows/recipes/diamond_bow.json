@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:diamond_bow",
+        "count": 1
+    }
+}

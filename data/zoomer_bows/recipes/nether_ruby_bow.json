@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "betternether:nether_ruby"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:nether_ruby_bow",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "deeperdarker:reinforced_echo_shard"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:warden_bow",
+        "count": 1
+    }
+}

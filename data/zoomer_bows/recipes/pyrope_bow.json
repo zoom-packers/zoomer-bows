@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "blue_skies:pyrope_gem"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:pyrope_bow",
+        "count": 1
+    }
+}
