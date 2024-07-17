@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "theabyss:fixed_bone"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:bone_bow",
+        "count": 1
+    }
+}

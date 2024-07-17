@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " rs",
+        "r s",
+        " rs"
+    ],
+    "key": {
+        "s": {
+            "item": "minecraft:string"
+        },
+        "r": {
+            "item": "betternether:flaming_ruby_boots"
+        }
+    },
+    "result": {
+        "item": "zoomer_bows:fire_ruby_bow",
+        "count": 1
+    }
+}
