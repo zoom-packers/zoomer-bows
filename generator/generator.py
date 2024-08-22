@@ -17,13 +17,6 @@ RECIPES_PATH = f'{GENERATED_FOLDER}/data/{MOD_ID}/recipes'
 
 MODELS_FOLDER = TEXTURE_ITEMS_FOLDER.replace('textures', 'models')
 
-BOW_MODEL_SEC = {
-    "parent": "zoomer_bows:item/aberythe_bow",
-    "textures": {
-        "layer0": "zoomer_bows:item/aberythe_bow2"
-    }
-}
-
 def get_model_bow_sec(mod_id, item_id, index):
     return {
         "parent": f"{mod_id}:item/{item_id}",
