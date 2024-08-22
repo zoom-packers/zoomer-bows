@@ -81,9 +81,6 @@ new_zoomers_bow('betterend', 'aeternium_ingot', 'aeternium')
 new_zoomers_bow('betterend', 'thallasium_ingot', 'thallasium')
 new_zoomers_bow('betterend', 'terminite_ingot', 'terminite')
 
-# Deeper and Darker
-new_zoomers_bow('deeperdarker', 'reinforced_echo_shard', 'warden')
-
 # Theabyss
 new_zoomers_bow('theabyss', 'fixed_bone', 'bone')
 new_zoomers_bow('theabyss', 'garnite_ingot', 'garnite')
