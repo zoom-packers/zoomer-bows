@@ -71,28 +71,28 @@
         }
     },
     "textures": {
-        "layer0": "zoomer_bows:item/warden_bow"
+        "layer0": "MOD_ID_REPLACE:item/ITEM_ID_REPLACE"
     },
     "overrides": [
         {
             "predicate": {
                 "minecraft:pulling": 1
             },
-            "model": "zoomer_bows:item/warden_bow2"
+            "model": "MOD_ID_REPLACE:item/ITEM_ID_REPLACE2"
         },
         {
             "predicate": {
                 "minecraft:pulling": 1,
                 "minecraft:pull": 0.65
             },
-            "model": "zoomer_bows:item/warden_bow3"
+            "model": "MOD_ID_REPLACE:item/ITEM_ID_REPLACE3"
         },
         {
             "predicate": {
                 "minecraft:pulling": 1,
                 "minecraft:pull": 0.9
             },
-            "model": "zoomer_bows:item/warden_bow4"
+            "model": "MOD_ID_REPLACE:item/ITEM_ID_REPLACE4"
         }
     ]
 }

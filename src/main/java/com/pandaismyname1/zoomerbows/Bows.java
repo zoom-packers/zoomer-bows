@@ -35,12 +35,11 @@ public class Bows {
     - Aeternium Bow
     - Thallasium Bow
     - Terminite Bow
-    - Warden Bow
     - Bone Bow
     - Garnite Bow
     - Ignisithe Bow
     - Fusion Bow
-    - Aberiythe Bow
+    - ABERYTHE Bow
     - Unorithe Bow
     - Phantom Bow
     - Incorynthe Bow
@@ -68,15 +67,14 @@ public class Bows {
     public static final RegistryObject<Item> AETERNIUM_BOW = ITEMS.register("aeternium_bow", () -> new BowItem(new Item.Properties().durability(2400)));
     public static final RegistryObject<Item> THALLASIUM_BOW = ITEMS.register("thallasium_bow", () -> new BowItem(new Item.Properties().durability(2500)));
     public static final RegistryObject<Item> TERMINITE_BOW = ITEMS.register("terminite_bow", () -> new BowItem(new Item.Properties().durability(2600)));
-    public static final RegistryObject<Item> WARDEN_BOW = ITEMS.register("warden_bow", () -> new BowItem(new Item.Properties().durability(2700)));
     public static final RegistryObject<Item> BONE_BOW = ITEMS.register("bone_bow", () -> new BowItem(new Item.Properties().durability(2800)));
     public static final RegistryObject<Item> GARNITE_BOW = ITEMS.register("garnite_bow", () -> new BowItem(new Item.Properties().durability(2900)));
     public static final RegistryObject<Item> IGNISITHE_BOW = ITEMS.register("ignisithe_bow", () -> new BowItem(new Item.Properties().durability(3000)));
     public static final RegistryObject<Item> FUSION_BOW = ITEMS.register("fusion_bow", () -> new BowItem(new Item.Properties().durability(3100)));
-    public static final RegistryObject<Item> ABERIYTHE_BOW = ITEMS.register("aberythe_bow", () -> new BowItem(new Item.Properties().durability(3200)));
+    public static final RegistryObject<Item> ABERYTHE_BOW = ITEMS.register("aberythe_bow", () -> new BowItem(new Item.Properties().durability(3200)));
     public static final RegistryObject<Item> UNORITHE_BOW = ITEMS.register("unorithe_bow", () -> new BowItem(new Item.Properties().durability(3300)));
     public static final RegistryObject<Item> PHANTOM_BOW = ITEMS.register("phantom_bow", () -> new BowItem(new Item.Properties().durability(3400)));
-    public static final RegistryObject<Item> ICORYTHE_BOW = ITEMS.register("incorythe_bow", () -> new BowItem(new Item.Properties().durability(3500)));
+    public static final RegistryObject<Item> INCORYTHE_BOW = ITEMS.register("incorythe_bow", () -> new BowItem(new Item.Properties().durability(3500)));
 
     public static void register(IEventBus modEventBus) {
         ITEMS.register(modEventBus);
