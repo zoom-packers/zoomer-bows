@@ -1,4 +1,6 @@
 {
+    "itemGroup.zoomer_bows": "Zoomer Bows",
+    "category.zoomer_bows": "Zoomer Bows",
     "item.zoomer_bows.iron_bow": "Iron Bow",
     "item.zoomer_bows.pyrope_bow": "Pyrope Bow",
     "item.zoomer_bows.aquite_bow": "Aquite Bow",
@@ -21,7 +23,6 @@
     "item.zoomer_bows.aeternium_bow": "Aeternium Bow",
     "item.zoomer_bows.thallasium_bow": "Thallasium Bow",
     "item.zoomer_bows.terminite_bow": "Terminite Bow",
-    "item.zoomer_bows.warden_bow": "Warden Bow",
     "item.zoomer_bows.bone_bow": "Bone Bow",
     "item.zoomer_bows.garnite_bow": "Garnite Bow",
     "item.zoomer_bows.ignisithe_bow": "Ignisithe Bow",
@@ -29,7 +30,5 @@
     "item.zoomer_bows.aberythe_bow": "Aberythe Bow",
     "item.zoomer_bows.unorithe_bow": "Unorithe Bow",
     "item.zoomer_bows.phantom_bow": "Phantom Bow",
-    "item.zoomer_bows.incorythe_bow": "Incorythe Bow",
-    "itemGroup.zoomer_bows": "Zoomer Bows",
-    "category.zoomer_bows": "Zoomer Bows"
+    "item.zoomer_bows.incorythe_bow": "Incorythe Bow"
 }

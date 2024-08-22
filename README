@@ -1,0 +1,8 @@
+## Zoomer Bows
+You know what this is....
+
+Before you package the mod, make sure to generate recipes and textures:
+```
+cd generator
+python generator.py
+```

@@ -39,7 +39,7 @@ public class Bows {
     - Garnite Bow
     - Ignisithe Bow
     - Fusion Bow
-    - Aberiythe Bow
+    - ABERYTHE Bow
     - Unorithe Bow
     - Phantom Bow
     - Incorynthe Bow
@@ -71,10 +71,10 @@ public class Bows {
     public static final RegistryObject<Item> GARNITE_BOW = ITEMS.register("garnite_bow", () -> new BowItem(new Item.Properties().durability(2900)));
     public static final RegistryObject<Item> IGNISITHE_BOW = ITEMS.register("ignisithe_bow", () -> new BowItem(new Item.Properties().durability(3000)));
     public static final RegistryObject<Item> FUSION_BOW = ITEMS.register("fusion_bow", () -> new BowItem(new Item.Properties().durability(3100)));
-    public static final RegistryObject<Item> ABERIYTHE_BOW = ITEMS.register("aberythe_bow", () -> new BowItem(new Item.Properties().durability(3200)));
+    public static final RegistryObject<Item> ABERYTHE_BOW = ITEMS.register("aberythe_bow", () -> new BowItem(new Item.Properties().durability(3200)));
     public static final RegistryObject<Item> UNORITHE_BOW = ITEMS.register("unorithe_bow", () -> new BowItem(new Item.Properties().durability(3300)));
     public static final RegistryObject<Item> PHANTOM_BOW = ITEMS.register("phantom_bow", () -> new BowItem(new Item.Properties().durability(3400)));
-    public static final RegistryObject<Item> ICORYTHE_BOW = ITEMS.register("incorythe_bow", () -> new BowItem(new Item.Properties().durability(3500)));
+    public static final RegistryObject<Item> INCORYTHE_BOW = ITEMS.register("incorythe_bow", () -> new BowItem(new Item.Properties().durability(3500)));
 
     public static void register(IEventBus modEventBus) {
         ITEMS.register(modEventBus);

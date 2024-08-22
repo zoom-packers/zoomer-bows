@@ -73,10 +73,10 @@ public class Zoomer_bows {
             output.accept(Bows.GARNITE_BOW.get());
             output.accept(Bows.IGNISITHE_BOW.get());
             output.accept(Bows.FUSION_BOW.get());
-            output.accept(Bows.ABERIYTHE_BOW.get());
+            output.accept(Bows.ABERYTHE_BOW.get());
             output.accept(Bows.UNORITHE_BOW.get());
             output.accept(Bows.PHANTOM_BOW.get());
-            output.accept(Bows.ICORYTHE_BOW.get());
+            output.accept(Bows.INCORYTHE_BOW.get());
             }).build());
 
     public Zoomer_bows() {

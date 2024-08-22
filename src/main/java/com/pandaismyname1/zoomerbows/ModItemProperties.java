@@ -32,10 +32,10 @@ public class ModItemProperties {
         makeBow(Bows.GARNITE_BOW.get());
         makeBow(Bows.IGNISITHE_BOW.get());
         makeBow(Bows.FUSION_BOW.get());
-        makeBow(Bows.ABERIYTHE_BOW.get());
+        makeBow(Bows.ABERYTHE_BOW.get());
         makeBow(Bows.UNORITHE_BOW.get());
         makeBow(Bows.PHANTOM_BOW.get());
-        makeBow(Bows.ICORYTHE_BOW.get());
+        makeBow(Bows.INCORYTHE_BOW.get());
     }
 
     private static void makeBow(Item item) {

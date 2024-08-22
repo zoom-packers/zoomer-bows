@@ -1,0 +1,182 @@
+{
+    "iron_bow": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "lang_name": "Iron Bow"
+    },
+    "pyrope_bow": {
+        "r": 255,
+        "g": 60,
+        "b": 139,
+        "lang_name": "Pyrope Bow"
+    },
+    "aquite_bow": {
+        "r": 122,
+        "g": 206,
+        "b": 241,
+        "lang_name": "Aquite Bow"
+    },
+    "diopside_bow": {
+        "r": 68,
+        "g": 218,
+        "b": 59,
+        "lang_name": "Diopside Bow"
+    },
+    "diamond_bow": {
+        "r": 94,
+        "g": 239,
+        "b": 215,
+        "lang_name": "Diamond Bow"
+    },
+    "charoite_bow": {
+        "r": 172,
+        "g": 128,
+        "b": 207,
+        "lang_name": "Charoite Bow"
+    },
+    "horizonite_bow": {
+        "r": 252,
+        "g": 109,
+        "b": 59,
+        "lang_name": "Horizonite Bow"
+    },
+    "zanite_bow": {
+        "r": 163,
+        "g": 109,
+        "b": 236,
+        "lang_name": "Zanite Bow"
+    },
+    "gravitite_bow": {
+        "r": 188,
+        "g": 70,
+        "b": 180,
+        "lang_name": "Gravitite Bow"
+    },
+    "valkyrie_bow": {
+        "r": 234,
+        "g": 245,
+        "b": 80,
+        "lang_name": "Valkyrie Bow"
+    },
+    "cincinnasite_bow": {
+        "r": 252,
+        "g": 180,
+        "b": 60,
+        "lang_name": "Cincinnasite Bow"
+    },
+    "cincinnasite_diamond_bow": {
+        "r": 41,
+        "g": 45,
+        "b": 110,
+        "lang_name": "Cincinnasite Diamond Bow"
+    },
+    "nether_ruby_bow": {
+        "r": 236,
+        "g": 9,
+        "b": 23,
+        "lang_name": "Nether Ruby Bow"
+    },
+    "fire_ruby_bow": {
+        "r": 216,
+        "g": 22,
+        "b": 60,
+        "lang_name": "Fire Ruby Bow"
+    },
+    "netherite_bow": {
+        "r": 40,
+        "g": 40,
+        "b": 40,
+        "lang_name": "Netherite Bow"
+    },
+    "cloggrum_bow": {
+        "r": 188,
+        "g": 152,
+        "b": 124,
+        "lang_name": "Cloggrum Bow"
+    },
+    "froststeel_bow": {
+        "r": 180,
+        "g": 212,
+        "b": 236,
+        "lang_name": "Froststeel Bow"
+    },
+    "utherium_bow": {
+        "r": 232,
+        "g": 93,
+        "b": 82,
+        "lang_name": "Utherium Bow"
+    },
+    "forgotten_bow": {
+        "r": 91,
+        "g": 244,
+        "b": 120,
+        "lang_name": "Forgotten Bow"
+    },
+    "aeternium_bow": {
+        "r": 108,
+        "g": 135,
+        "b": 128,
+        "lang_name": "Aeternium Bow"
+    },
+    "thallasium_bow": {
+        "r": 82,
+        "g": 172,
+        "b": 188,
+        "lang_name": "Thallasium Bow"
+    },
+    "terminite_bow": {
+        "r": 52,
+        "g": 196,
+        "b": 188,
+        "lang_name": "Terminite Bow"
+    },
+    "bone_bow": {
+        "r": 125,
+        "g": 149,
+        "b": 157,
+        "lang_name": "Bone Bow"
+    },
+    "garnite_bow": {
+        "r": 28,
+        "g": 132,
+        "b": 76,
+        "lang_name": "Garnite Bow"
+    },
+    "ignisithe_bow": {
+        "r": 93,
+        "g": 245,
+        "b": 220,
+        "lang_name": "Ignisithe Bow"
+    },
+    "fusion_bow": {
+        "r": 124,
+        "g": 252,
+        "b": 232,
+        "lang_name": "Fusion Bow"
+    },
+    "aberythe_bow": {
+        "r": 214,
+        "g": 118,
+        "b": 253,
+        "lang_name": "Aberythe Bow"
+    },
+    "unorithe_bow": {
+        "r": 1,
+        "g": 239,
+        "b": 202,
+        "lang_name": "Unorithe Bow"
+    },
+    "phantom_bow": {
+        "r": 38,
+        "g": 171,
+        "b": 118,
+        "lang_name": "Phantom Bow"
+    },
+    "incorythe_bow": {
+        "r": 87,
+        "g": 181,
+        "b": 189,
+        "lang_name": "Incorythe Bow"
+    }
+}
