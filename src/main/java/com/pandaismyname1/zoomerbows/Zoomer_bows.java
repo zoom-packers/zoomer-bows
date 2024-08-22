@@ -69,7 +69,6 @@ public class Zoomer_bows {
             output.accept(Bows.AETERNIUM_BOW.get());
             output.accept(Bows.THALLASIUM_BOW.get());
             output.accept(Bows.TERMINITE_BOW.get());
-            output.accept(Bows.WARDEN_BOW.get());
             output.accept(Bows.BONE_BOW.get());
             output.accept(Bows.GARNITE_BOW.get());
             output.accept(Bows.IGNISITHE_BOW.get());

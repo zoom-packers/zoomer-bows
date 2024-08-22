@@ -35,7 +35,6 @@ public class Bows {
     - Aeternium Bow
     - Thallasium Bow
     - Terminite Bow
-    - Warden Bow
     - Bone Bow
     - Garnite Bow
     - Ignisithe Bow
@@ -68,7 +67,6 @@ public class Bows {
     public static final RegistryObject<Item> AETERNIUM_BOW = ITEMS.register("aeternium_bow", () -> new BowItem(new Item.Properties().durability(2400)));
     public static final RegistryObject<Item> THALLASIUM_BOW = ITEMS.register("thallasium_bow", () -> new BowItem(new Item.Properties().durability(2500)));
     public static final RegistryObject<Item> TERMINITE_BOW = ITEMS.register("terminite_bow", () -> new BowItem(new Item.Properties().durability(2600)));
-    public static final RegistryObject<Item> WARDEN_BOW = ITEMS.register("warden_bow", () -> new BowItem(new Item.Properties().durability(2700)));
     public static final RegistryObject<Item> BONE_BOW = ITEMS.register("bone_bow", () -> new BowItem(new Item.Properties().durability(2800)));
     public static final RegistryObject<Item> GARNITE_BOW = ITEMS.register("garnite_bow", () -> new BowItem(new Item.Properties().durability(2900)));
     public static final RegistryObject<Item> IGNISITHE_BOW = ITEMS.register("ignisithe_bow", () -> new BowItem(new Item.Properties().durability(3000)));

@@ -28,7 +28,6 @@ public class ModItemProperties {
         makeBow(Bows.AETERNIUM_BOW.get());
         makeBow(Bows.THALLASIUM_BOW.get());
         makeBow(Bows.TERMINITE_BOW.get());
-        makeBow(Bows.WARDEN_BOW.get());
         makeBow(Bows.BONE_BOW.get());
         makeBow(Bows.GARNITE_BOW.get());
         makeBow(Bows.IGNISITHE_BOW.get());
